@@ -11,7 +11,7 @@ var createCounter = function(init) {
     },
     decrement: ()=>{
         count--
-        return count 
+        return count
     },
     reset: ()=>{
         return count = init
